@@ -1,0 +1,22 @@
+﻿
+DefBrightness = 133
+MaxBrightness = 255
+MinBrightness = 30
+DefContrast = 5
+MaxContrast = 10
+MinContrast = 0
+DefGamma = 22
+MaxGamma = 22
+MinGamma = 22
+DefSaturation = 83
+MaxSaturation = 200
+MinSaturation = 0
+DefHue = 13
+MaxHue = 13
+MinHue = 13
+DefSharpness = 25
+MaxSharpness = 50
+MinSharpness = 0
+DefExposure = -6
+MaxExposure = 1
+MinExposure = 1
