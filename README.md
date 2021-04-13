@@ -2,6 +2,8 @@
 -1단계 Scene  
 전체 프로젝트: https://github.com/hdan3653/A-major
   
+![0001](https://user-images.githubusercontent.com/57860031/114512989-a860fd00-9c74-11eb-8fab-effaeef43aa9.jpg)  
+  
 -----
 
 #### 제안내용  
